@@ -52,5 +52,3 @@ A polished **Tic Tac Toe game built in C# using Raylib**, featuring a clean UI, 
 
 ---
 
-## 🗂️ Project Structure
-
